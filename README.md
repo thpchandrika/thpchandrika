@@ -1,6 +1,6 @@
 <img src="https://github.com/thpchandrika/thpchandrika/blob/main/ChandrikaThapa.png" alt="Chandrika Thapa">
 <h1 align="center">Hi 👋, I'm Chandrika Thapa</h1>
-<h3 align="center">A passionate software developer, currently from United States</h3>
+<h3 align="center">A passionate software developer, originally from Nepal & currently from United States</h3>
 <img align="right" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding girl">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thpchandrika&label=Profile%20views&color=0e75b6&style=flat" alt="thpchandrika" /> </p>
 
