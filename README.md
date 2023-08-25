@@ -1,3 +1,4 @@
+<img src="https://github.com/thpchandrika/thpchandrika/blob/main/ChandrikaThapa.png" alt="Chandrika Thapa">
 <h1 align="center">Hi 👋, I'm Chandrika Thapa</h1>
 <h3 align="center">A passionate software developer, currently from United States</h3>
 <img align="right" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding girl">
