@@ -1,4 +1,4 @@
-<img src="https://github.com/thpchandrika/thpchandrika/blob/main/ThapaChandrika.png" alt="Chandrika Thapa">
+<img src="https://github.com/thpchandrika/thpchandrika/blob/main/ChandrikaThapa.png" alt="Chandrika Thapa">
 <h1 align="center">Hi 👋, I'm Mangar Chan</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding girl">
