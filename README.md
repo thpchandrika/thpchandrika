@@ -1,6 +1,6 @@
 <img src="https://github.com/thpchandrika/thpchandrika/blob/main/ThapaChandrika.png" alt="Chandrika Thapa">
-<h1 align="center">Hi 👋, I'm Chandrika Thapa</h1>
-<h3 align="center">A passionate software developer, originally from Nepal & currently from United States</h3>
+<h1 align="center">Hi 👋, I'm Mangar Chan</h1>
+<h3 align="center">A passionate software developer</h3>
 <img align="right" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Coding girl">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thpchandrika&label=Profile%20views&color=0e75b6&style=flat" alt="thpchandrika" /> </p>
 
@@ -10,12 +10,10 @@
 
 - 💬 Ask me about **C#, Java, react, .NET**
 
-- 📫 How to reach me **thpchandrika@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thapachandrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thapachandrika" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thapachandrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thapachandrika" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thapachandrika" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thapachandrika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
