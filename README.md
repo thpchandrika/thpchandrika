@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js, AWS Solutions Architect**
 
-- 💬 Ask me about **C#, Java, react, .NET**
+- 💬 Ask me about **Java, react, C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
